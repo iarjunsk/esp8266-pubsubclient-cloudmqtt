@@ -1,1 +1,1 @@
-# ESP8266 example to Connect CloudMqtt using Eclipse Paho
+# ESP8266 example to Connect CloudMqtt using Pubsubclient
